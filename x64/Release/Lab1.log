@@ -1,0 +1,23 @@
+﻿  Lab1.cpp
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(8,28): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(9,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(11,29): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(76,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(117,1): warning C4244: *=: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(118,1): warning C4244: *=: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(203,32): warning C4244: *=: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(204,32): warning C4244: *=: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(228,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(238,49): warning C4244: -=: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(239,49): warning C4244: -=: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(195,12): warning C4101: Bitmap: неиспользованная локальная переменная
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(193,21): warning C4101: hOldBitmap: неиспользованная локальная переменная
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(191,14): warning C4101: hCompatibleDC: неиспользованная локальная переменная
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(194,10): warning C4101: Rect: неиспользованная локальная переменная
+C:\Users\Lenovo\Desktop\Labs\Lab1\Lab1.cpp(193,12): warning C4101: hBitmap: неиспользованная локальная переменная
+  Создание кода
+  6 of 7 functions (85.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lab1.vcxproj -> C:\Users\Lenovo\Desktop\Labs\Lab1\x64\Release\Lab1.exe
